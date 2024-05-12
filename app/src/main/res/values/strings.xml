@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="update_your_task">Update Your Task</string>
+    <string name="enter_task_title">Enter Task title</string>
+    <string name="enter_task_date">Enter Task date</string>
+    <string name="enter_task_description">Enter Task Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="content">Content</string>
+    <string name="date">Date</string>
+    <string name="your_tasks">Your Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_task_title2">Enter Task title</string>
+    <string name="enter_task_date2">Enter Task date</string>
+    <string name="enter_task_description2">Enter Task Description</string>
+    <string name="save_task2">Save Task</string>
+</resources>
